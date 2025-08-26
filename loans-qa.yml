@@ -2,9 +2,9 @@ build:
   version: "2.0"
 
 loans:
-  message: "Welcome to EazyBank cards QA local APIs"
+  message: "Welcome to EazyBank loans related local APIs"
   contactDetails:
-    name: "RAYAISSE Wendyam-QA lead"
+    name: "RAYAISSE Wendyam"
     email: "rayaissewendyam@gmail.com"
   onCallSupport:
     -65272174
