@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Accounts Service related to docker APIs"
+  message: "Welcome to Accounts Service related to local APIs"
   contactDetails:
     name: "RAYAISSE Patrick"
     email: "rayaissewendyam@gmail.com"
